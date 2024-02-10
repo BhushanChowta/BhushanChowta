@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Bhushan Chowta</h1>
 <h3 align="center">A passionate Full Stack developer</h3>
 
-#- 👨‍💻 All of my projects are available at [https://bhushanchowta.github.io/#work](https://bhushanchowta.github.io/#work)
-
 - 📫 How to reach me **https://www.linkedin.com/in/bhushanchowta/**
 
 - 📄 Know about my experiences [https://bit.ly/3SR25CV](https://bit.ly/3SR25CV)
