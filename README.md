@@ -3,7 +3,7 @@
 
 - 📫 How to reach me **https://www.linkedin.com/in/bhushanchowta/**
 
-- 📄 Know about my experiences [https://bit.ly/3SR25CV](https://bit.ly/3SR25CV)
+- 📄 Know about my experiences [https://bit.ly/3HVGJWW](https://bit.ly/3HVGJWW)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
