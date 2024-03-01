@@ -6,7 +6,7 @@
 - 📄 Know about my experiences [https://bit.ly/49hOKGz](https://bit.ly/49hOKGz) 
 
 <h3 align="left">Connect with me: </h3>
-<p align="left">
+<p align="left"> 
 <a href="https://twitter.com/bhushanchowta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bhushanchowta" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/bhushanchowta/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/bhushanchowta/" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/bchowta/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/bchowta/" height="30" width="40" /></a>
