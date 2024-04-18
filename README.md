@@ -2,7 +2,7 @@
 <!-- <h3 align="center">A Full Stack developer</h3>   
   --> 
      
-- 📫 How to reach me https://www.linkedin.com/in/bhushanchowta/
+- 📫 How to reach me https://www.linkedin.com/in/bhushanchowta/ 
    
 - 📄 Know about my experiences [https://bit.ly/49hOKGz](https://bit.ly/49hOKGz) 
 
