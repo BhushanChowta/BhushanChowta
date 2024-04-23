@@ -2,10 +2,8 @@
 <!-- <h3 align="center">A Full Stack developer</h3>  
   -->  
       
-- 📫 How to reach me https://www.linkedin.com/in/bhushanchowta/ 
-   
-- 📄 Know about my experiences [https://bit.ly/49hOKGz](https://bit.ly/49hOKGz)  
-
+- 📄 Know about my experiences & reach me @ https://www.linkedin.com/in/bhushanchowta/ 
+  
 <h3 align="left">Connect with me: </h3>
 <p align="left"> 
 <a href="https://twitter.com/bhushanchowta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bhushanchowta" height="30" width="40" /></a>
