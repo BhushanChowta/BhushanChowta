@@ -2,7 +2,7 @@
 <!-- <h3 align="center">A Full Stack developer</h3>  
   -->     
          
-- 📄 Find out more about me and reach out on <a href="https://linkedin.com/in/bhushanchowta/" target="blank">LinkedIn</a>
+- 📄 Find out more about me and reach out on <a href="https://linkedin.com/in/bhushanchowta/" target="blank">LinkedIn</a> 
  
 <h3 align="left">Connect with me: </h3>  
 <p align="left">
